@@ -1,4 +1,4 @@
 # protohack
 Second place finish with team "Squeeze Me" 
 
-![Alt text](/protohack/squeeze.gif?raw=true)
+![Alt text](/squeeze.gif?raw=true)
